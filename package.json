@@ -1,0 +1,16 @@
+{
+    "name": "rest-express",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "express": "^4.17.1",
+        "file-system": "^1.2.2"
+    },
+    "engines": {
+        "node": ">=10.0.0"
+    }
+}
